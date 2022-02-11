@@ -24,3 +24,13 @@ body {
 #titulo{
   font-size: 20px;
 }
+footer{
+  background-color: rgb(14, 22, 34);
+  color: aliceblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 74%;
+  padding: 0.2em;
+  text-align: center;
+  border: 1px solid rgb(182, 182, 182);
+  margin: 0 auto
+}
